@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 05:12:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 06:16:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[효연, ‘26일의 셀럽’ 두 번째 방송 26일 6시 진행! 쇼핑 큐레이터 부캐 ‘효사장’ 활약! (SMTOWN ─ Girls' Generation)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5566</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5566</guid>
+            <pubDate>Tue, 26 Oct 2021 06:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[소녀시대 효연(에스엠엔터테인먼트)이 26일 두 번째 라이브 커머스 방송에 나선다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61779c3b81175.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에스파 ‘Savage’ MV, 공개 2일 만에 5천만 뷰 돌파! 자체 기록 또 한 번 경신! (SMTOWN ─ Girls' Generation)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5498</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 07 Oct 2021 15:13:02 GMT</pubDate>
             <content:encoded><![CDATA[소녀시대 효연 (HYO, 에스엠엔터테인먼트 소속)이 이번 주 음악 방송에 출연한다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_6111f2d6d95f6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[권유리, 훈훈한 의리로 SBS ‘라켓소년단’ 특별출연! 마지막 회 빛냈다 (SMTOWN ─ Girls' Generation)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5300</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5300</guid>
-            <pubDate>Thu, 07 Oct 2021 15:13:02 GMT</pubDate>
-            <content:encoded><![CDATA[권유리(소녀시대 유리, 에스엠엔터테인먼트 소속)가 ‘라켓소년단’의 마지막을 훈훈한 의리로 꽉 채웠다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_6111f183e853b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
