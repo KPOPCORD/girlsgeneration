@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 03:15:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 04:19:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SM Girls Assemble! (SMTOWN ─ Girls' Generation)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5787</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5787</guid>
+            <pubDate>Mon, 27 Dec 2021 04:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[SM엔터테인먼트(이하 SM)가 새로운 프로젝트 ‘Girls On Top(GOT)’(걸스 온 탑)을 시작한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c93b9e890eb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘2021 Winter SMTOWN : SMCU EXPRESS’ 27일 발매! (SMTOWN ─ Girls' Generation)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5786</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5786</guid>
+            <pubDate>Mon, 27 Dec 2021 04:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[10년 만에 돌아온 SMTOWN 겨울 앨범 ‘2021 Winter SMTOWN : SMCU EXPRESS’(2021 윈터 에스엠타운 : SMCU 익스프레스)가 27일 발매된다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c93b05539e9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소녀시대 써니, NCT 정우, 런쥔, ‘2021 Winter SMTOWN’ 앨범으로 만난다! (SMTOWN ─ Girls' Generation)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5781</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 07 Oct 2021 15:13:02 GMT</pubDate>
             <content:encoded><![CDATA[SM의 DJ 아티스트 레이든(Raiden)이 10월 11일 첫 미니앨범 ‘Love Right Back’(러브 라이트 백)을 발표한다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615bc13775d10.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[효연, 라이브 커머스 쇼핑 큐레이터 도전! (SMTOWN ─ Girls' Generation)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5458</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5458</guid>
-            <pubDate>Thu, 07 Oct 2021 15:13:02 GMT</pubDate>
-            <content:encoded><![CDATA[소녀시대 효연(에스엠엔터테인먼트)이 라이브 커머스 쇼핑 큐레이터에 도전한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6152f10db8543.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘유리한 식탁 시즌2’ 종영! 권유리, 업그레이드된 요리 실력+입담 선보여 (SMTOWN ─ Girls' Generation)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5451</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5451</guid>
-            <pubDate>Thu, 07 Oct 2021 15:13:02 GMT</pubDate>
-            <content:encoded><![CDATA[권유리(소녀시대 유리, 에스엠엔터테인먼트 소속)가 마지막까지 ‘유리한 식탁 시즌2’를 알차게 채웠다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6151931a2e3be.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
