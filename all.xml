@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 05:13:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 06:16:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘믿듣탱’ 태연이 돌아온다! 정규 3집 ‘INVU’ 2월 14일 발매! (SMTOWN ─ Girls' Generation)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5909</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5909</guid>
+            <pubDate>Wed, 26 Jan 2022 06:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[‘믿고 듣는 보컬퀸’ 소녀시대 태연(에스엠엔터테인먼트 소속)이 2월 14일 정규 3집 ‘INVU’(아이앤비유)로 돌아온다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f0e07aa4e98.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소녀시대 데뷔곡 ‘다시 만난 세계’ 리마스터 MV 공개! (SMTOWN ─ Girls' Generation)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5895</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 03 Jan 2022 05:15:18 GMT</pubDate>
             <content:encoded><![CDATA[1일 오후 1시부터 전 세계 무료 온라인 중계되는 ‘SMTOWN LIVE 2022 : SMCU EXPRESS@KWANGYA’가 특급 라인업으로 열기를 고조시키고 있는 가운데, 이번 콘서트의 기대 포인트를 짚어봤다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d284ec7a2b5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘2021 MBC 가요대제전’ 임윤아, 7년 연속 믿고 보는 MC로 대활약! (SMTOWN ─ Girls' Generation)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5810</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5810</guid>
-            <pubDate>Mon, 03 Jan 2022 05:15:18 GMT</pubDate>
-            <content:encoded><![CDATA[임윤아(소녀시대 윤아, 에스엠엔터테인먼트 소속)가 ‘가요대제전’ 7년 연속 MC로 맹활약했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d282c3e0429.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
