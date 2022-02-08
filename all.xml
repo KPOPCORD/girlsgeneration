@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 02:33:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 03:13:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘컴백’ 태연 정규 3집 ‘INVU’, 웰메이드 13곡으로 귀호강 예고! (SMTOWN ─ Girls' Generation)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5942</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5942</guid>
+            <pubDate>Tue, 08 Feb 2022 03:13:54 GMT</pubDate>
+            <content:encoded><![CDATA[‘믿고 듣는 보컬퀸’ 소녀시대 태연(에스엠엔터테인먼트 소속)이 정규 3집 ‘INVU’(아이앤비유)로 풍성한 음악 색깔을 예고했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6201dae174dd4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[태연 정규 3집 ‘INVU’ 발매 기념 전시 2월 7일 오픈! (SMTOWN ─ Girls' Generation)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5934</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 12 Jan 2022 06:18:36 GMT</pubDate>
             <content:encoded><![CDATA[소녀시대 태연(에스엠엔터테인먼트 소속)이 신곡 ‘Can’t Control Myself’(캔트 컨트롤 마이셀프)로 짙은 감성을 예고했다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61de6ac4d3c13.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태연, 女 솔로 가수 10년 누적 앨범 판매량 1위 기록! (SMTOWN ─ Girls' Generation)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5846</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5846</guid>
-            <pubDate>Wed, 12 Jan 2022 06:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[소녀시대 태연(에스엠엔터테인먼트 소속)이 여자 솔로 가수 부문 10년 누적 앨범 판매량 1위를 기록했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61de69d99a937.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
