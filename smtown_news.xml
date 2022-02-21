@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Girls' Generation</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 04:18:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 05:13:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[임윤아, 패션 매거진 커버 장식! 올해만 벌써 두 번째 ‘어나더 클래스’ 입증]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5979</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5979</guid>
+            <pubDate>Mon, 21 Feb 2022 05:13:13 GMT</pubDate>
+            <content:encoded><![CDATA[임윤아(소녀시대 윤아, 에스엠엔터테인먼트 소속)가 남다른 감각으로 ‘어나더 클래스’를 입증했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_621314356ffea.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[효연 라이브 커머스 ‘오늘의 셀럽’, 18일 오후 7시 마지막 방송!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5973</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 27 Jan 2022 05:13:51 GMT</pubDate>
             <content:encoded><![CDATA[‘2021 Winter SMTOWN : SMCU EXPRESS’(2021 윈터 에스엠타운 : SMCU 익스프레스)가 가온차트 정상에 올랐다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f223563552a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘퍼포먼스 갓’ GOT the beat, 스페셜 무대 공개 D-DAY!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5910</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5910</guid>
-            <pubDate>Thu, 27 Jan 2022 05:13:51 GMT</pubDate>
-            <content:encoded><![CDATA[‘퍼포먼스 갓’ GOT the beat(갓 더 비트, 에스엠엔터테인먼트 소속)가 드디어 27일 ‘엠카운트다운’에서 스페셜 무대를 선보인다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f221e8824bd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
